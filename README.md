@@ -22,14 +22,7 @@
 
 ---
 
-<p align="center">
-  <img
-    align="center"
-    alt="Most used languages"
-    style="margin-bottom: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=edulon2000)(https://github.com/edulon2000/github-readme-stats)"
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulon2000&layout=compact)
 
 <br>
 
