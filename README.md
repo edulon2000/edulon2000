@@ -23,7 +23,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulon2000)](https://github.com/edulon2000/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulon2000&layout=donut)](https://github.com/edulon2000/github-readme-stats)
 <br>
 
 <b style="font-size: 18px; "> 💻 Some Technologies </b> <i style="color: #79c0ff;"></i>
