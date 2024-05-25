@@ -4,7 +4,7 @@
   </br>
   <p align="center">
     <a href="https://www.instagram.com/eduardo.costa.l?igsh=MXhqYjhlaWlhOTlnZA%3D%3D&utm_source=qr " target="_blank" style="text-decoration: none;">
-      <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white">
+      <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"> 
     </a>
     <a href="https://www.linkedin.com/in/eduardo-costal" target="_blank" style="text-decoration: none;">
       <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white">
