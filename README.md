@@ -22,8 +22,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulon2000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulon2000&layout=compact)
 <br>
 
 <b style="font-size: 18px; "> 💻 Some Technologies </b> <i style="color: #79c0ff;"></i>
