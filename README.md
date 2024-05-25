@@ -22,7 +22,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulon2000)](https://github.com/edulon2000/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulon2000&layout=compact)
 <br>
 
