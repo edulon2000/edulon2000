@@ -19,7 +19,7 @@
 </samp>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulon2000&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonoliveira1&langs_count=8)
 ---
 
 <br>
